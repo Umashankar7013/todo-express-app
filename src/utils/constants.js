@@ -1,0 +1,1 @@
+exports.SECRET_KEY = "WE_ARE_BEGINNERS_MAN";
