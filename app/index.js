@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.send("Hello Tilicho");
 });
 
-const { router } = require("./src/routes/index");
+const { router } = require("../src/routes/index");
 
 app.use("/", router);
 
