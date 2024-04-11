@@ -5,6 +5,7 @@
     "database": "Express Database",
     "host": "localhost",
     "dialect": "postgresql"
+    
   },
   "test": {
     "username": "root",
